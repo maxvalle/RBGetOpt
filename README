@@ -1,0 +1,8 @@
+What is it?
+The RBGetOpè class is a REALbasic class to handle parsing of command line args.
+
+Where did it come from?
+This class was inspired by the GNU GetOpt library.
+
+How do I use this?
+Check out the wiki at http://github.com/maxvalle/RBGetOpt/wiki.
